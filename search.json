@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Schedule",
+    "text": "Schedule\n*Day indicates class meeting days of the week .\n\n\n\n\n\n\n\n\n\nWeek\nDay*\nTopic(s)\nAction\n\n\n\n\n1\n1\nIntro to GitHub / RStudio / Quarto /Overleaf\nDo Practice + Pick a Topic/Group\n\n\n\n2\nPick a Topic + Practice (no meeting)\nPick a Topic/Group\n\n\n2\n1\nIndividual research\nRead and summarize research papers; Create Individual GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Create Individual GitHub Website\n\n\n3\n1\nIndividual research\nRead and summarize research papers; Add them to GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Add them to GitHub Website\n\n\n4\n1\nIndividual research\nRead and summarize research papers + polish writing on GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers + polish writing on GitHub Website\n\n\n5\n1\nTeam research\nwrite the introduction/literature review\n\n\n\n2\nTeam research (no meeting)\nwrite the introduction/literature review\n\n\n6\n1\nTeam research\npolish the introduction/literature review + pick a data set\n\n\n\n2\nTeam research (no meeting)\npolish the introduction/literature review + pick a data set\n\n\n7\n1\nTeam research\ndata description and visualization\n\n\n\n2\nTeam research (no meeting)\ndata description and visualization\n\n\n8\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n9\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n10\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n11\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n12\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n13\n1\nTeam research\n1st draft + slides preparation\n\n\n\n2\nTeam research (no meeting)\n1st draft + slides preparation\n\n\n14\n1\nTeam research\nFeedback\n\n\n\n2\nTeam research (no meeting)\n\n\n\n15\n1\nOral Presentations\nPresentation\n\n\n\n2\nOral Presentations\nPresentation\n\n\n16\n\nFinal paper + slides due"
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "Important\n\n\n\nIt depends on the semester. One or more instructors are assigned to teach this course.\nPlease visit Canvas or get in touch with your instructor for questions and office hours appointments.\n\n\n\nInstructors:\n\nDr. Samantha Seals: sseals@uwf.edu\nDr. Shusen Pu: spu@uwf.edu\nDr. Achraf Cohen: acohen@uwf.edu"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "Important\n\n\n\nThis is a generic syllabus, please refer to Canvas or your semester instructor for more details."
+  },
+  {
+    "objectID": "syllabus.html#course-information",
+    "href": "syllabus.html#course-information",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Course Information",
+    "text": "Course Information\n\nInstructor: Instructor information\nEmail policy: Please put IDC6940 in the email subject\nClass Meetings: Online Learning\nCourse Materials: Canvas\nOffice Hours: Email your instructors"
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Course Description",
+    "text": "Course Description\nThis course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers."
+  },
+  {
+    "objectID": "syllabus.html#student-learning-outcomes",
+    "href": "syllabus.html#student-learning-outcomes",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Student Learning Outcomes",
+    "text": "Student Learning Outcomes\nAt the completion of this course, students will be able to:\n\nDescribe a research or business problem of interest\nApply and compare statistical and machine learning methods\nAcquire, organize, summarize, and visualize data\nCommunicate and formulate statistical analysis to an audience\nCollaborate with others"
+  },
+  {
+    "objectID": "syllabus.html#course-materials",
+    "href": "syllabus.html#course-materials",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Course Materials",
+    "text": "Course Materials\nThere is no required textbooks for this course. Course Materials are posted on Canvas. Lectures will be recorded and posted on Canvas."
+  },
+  {
+    "objectID": "syllabus.html#grading-and-evaluation",
+    "href": "syllabus.html#grading-and-evaluation",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Grading and Evaluation",
+    "text": "Grading and Evaluation\nThe course grade will be determined as follows:\n\nQuizzes Project Progress (#6): 60%\nOral Presentation - Slides (#1): 20%\nFinal Paper Project (#1): 20%"
+  },
+  {
+    "objectID": "syllabus.html#grade-distribution",
+    "href": "syllabus.html#grade-distribution",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Grade Distribution",
+    "text": "Grade Distribution\nFinal course grades will be determined according to the following scale.\n\n\n\nLetter Grade\nWeighted Score\n\n\n\n\nA\n93%–100%\n\n\nA-\n90%–92%\n\n\nB+\n87%–89%\n\n\nB\n83%–86%\n\n\nB-\n80%–82%\n\n\nC+\n77%–79%\n\n\nC\n73%–76%\n\n\nC-\n70%–72%\n\n\nD+\n67%–69%\n\n\nD\n60%–66%\n\n\nF\n&lt; 60%"
+  },
+  {
+    "objectID": "syllabus.html#university-statements-and-policies",
+    "href": "syllabus.html#university-statements-and-policies",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "University Statements and Policies",
+    "text": "University Statements and Policies\nThis link includes additional syllabus statements that can benefit all UWF students: University Statements and Policies"
+  },
+  {
+    "objectID": "syllabus.html#textbooks-not-required",
+    "href": "syllabus.html#textbooks-not-required",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Textbooks (not required)",
+    "text": "Textbooks (not required)\n\nR for Data Science, 2017, Hadley Wickham and Garrett Grolemond. Free acess: https://r4ds.had.co.nz/\nPython for Data Science: https://aeturrell.github.io/python4DS/welcome.html\nFoundations of Linear and Generalized Linear Models, Edition (2015). Author: Alan Agresti; ISBN-13: 978-1118730034. Free access with UWF account\nGeneralized Linear Models With Examples in R, Edition (2015). Author: Peter K. Dunn and Gordon K. Smyth ; ISBN-13: 978-1441901170.\n\nIntroduction to Data Science - Data Analysis and Prediction Algorithms with R, (2020). Author: Rafael A. Irizarry."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "Please read the following instructions:\nYou will need to select a specific study area to concentrate on, which may be a subject new to you. You will start the process by conducting an in-depth exploration of the chosen topic and then demonstrate the application of the new methodology using a real-world dataset that is both relevant and captivating. Completing the project requires submitting a comprehensive written paper alongside an engaging oral presentation supported by slides.\n\n\n\n\n\n\nImportant\n\n\n\nGitHub Page Template Project: https://github.com/capstone4ds/capstone4ds_template\n\n\nThe methodologies to consider:\nRegression methodologies:\n\nQuantile Regression\nGeneralized Additive Models\nNormal Linear Mixed Models\nGeneralized estimating equations\nLASSO or Ridge Regression\nKernel Regression\nBayesian Linear Regression\nBeta regression\nCox proportional hazards model\n…\n\nClustering methodologies:\n\nK-means clustering\nLatent Class Analysis\n…\n\nMachine Learning methodologies:\n\nSupport Vector Machines\nDecision Trees Random Forest\nXGBoost models\nBayesian Networks\nKNN\nLong Short-Term Network (LSTM)\nConventional Neural Network (CNN)\nSentiment Analysis (NLP)\n\nOthers:\n\nMissing Data and Imputation\nCross-validation\nBootstrapping and Jackknife Estimation\nPrincipal Component Analysis\nIndependent Component Analysis\n…\n\n\n\n\n\n\n\nNote\n\n\n\nYou are free to propose a topic if there is something you are interested in but is missing from the list. The instructor must approve the methodology to ensure that it meets the expectations of a capstone project.\n\n\n\nUseful links\n\nData Sets: https://acohenstat.github.io/Datasets/\nGitHub Page for the project: https://github.com/acohenstat/STA6257_Project"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "The following are examples of reports from previous capstone projects. While there is room for improvement, they are provided here to assist you in meeting the expectations."
+  },
+  {
+    "objectID": "data.html#section",
+    "href": "data.html#section",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "Title\nReport\n\n\n\n\n- Linear Mixed Models: Inhale, Exhale, Analyze: BMI’s Imprint on Impulse Oscillometry Outcomes\nWebsite\n\n\n- Principal Component Analysis\nWebsite\n\n\n- K-means Clustering\nWebsite\n\n\n- Cross Validation\nWebsite\n\n\n-Predicting Plant Extinctions Using the Random Forest Algorithm\nWebsite\n\n\n-Generalized Estimating Equations\nWebsite\n\n\n-Predicting Survival of Intensive Care Unit Patients with Support Vector Machines\nWebsite\n\n\n-Demonstration of a K-Means Clustering Algorithm on Spotify music features\nWebsite"
+  }
+]
