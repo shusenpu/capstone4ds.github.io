@@ -1,6 +1,6 @@
 ---
-title: "Statistics 999: Generic Statistics Class"
-subtitle: "UC Berkeley, Spring 2024"
+title: "IDC 6940 - Capstone Projects in Data Science"
+subtitle: "UWF - Mathematics and Statistics"
 # listing:
 #   - id: schedule
 #     template: assets/schedule.ejs
@@ -10,10 +10,10 @@ subtitle: "UC Berkeley, Spring 2024"
 #     contents: buttons.yml
 ---
 
-::: {#buttons}
+```{=html}
+<!--::: {#buttons}
 :::
 
-[UNDER CONSTRUCTION]
 
 
 ::: {.callout-note title="Welcome to Week 1 of Stat 999"}
@@ -21,14 +21,44 @@ subtitle: "UC Berkeley, Spring 2024"
 
 ::: {.callout-note title="Welcome to Week 2"}
 Things are picking up now.
-:::
+:::-->
+```
+This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers.
 
 ## Schedule
 
-<!-- Here we use Quarto's EJS templating. -->
+\*Day indicates class meeting days of the week .
 
-<!-- For a style similar to that of [Stat 20](https://stat20.org), modify `index.qmd` to point to `assets/{schedule-alt.ejs,buttons-alt.ejs}` and to `{schedule-alt.yml,buttons-alt.yml}` and `_quarto.yml` to point to `assets/styles-alt.scss`. -->
-
-::: {#schedule}
-:::
-
+| **Week** | **Day**\* | **Topic(s)**                             | **Action**                                                               |
+|:-----------:|:-----------:|-----------------------|:-----------------------|
+|    1     |     1     | Intro to GitHub / RStudio / Quarto       | Do Practice + Pick a Topic/Group                                         |
+|          |     2     | Pick a Topic + Practice **(no meeting**) | Pick a Topic/Group                                                       |
+|    2     |     1     | **Individual** research                  | Read and summarize research papers; Create **Individual** GitHub Website |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Create **Individual** GitHub Website |
+|    3     |     1     | **Individual** research                  | Read and summarize research papers; Add them to GitHub Website           |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Add them to GitHub Website           |
+|    4     |     1     | **Individual** research                  | Read and summarize research papers + polish writing on GitHub Website    |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers + polish writing on GitHub Website    |
+|    5     |     1     | **Team** research                        | write the introduction/literature review                                 |
+|          |     2     | **Team** research (no meeting)           | write the introduction/literature review                                 |
+|    6     |     1     | **Team** research                        | polish the introduction/literature review + pick a data set              |
+|          |     2     | **Team** research (no meeting)           | polish the introduction/literature review + pick a data set              |
+|    7     |     1     | **Team** research                        | data description and visualization                                       |
+|          |     2     | **Team** research (no meeting)           | data description and visualization                                       |
+|    8     |     1     | **Team** research                        | write the method section                                                 |
+|          |     2     | **Team** research (no meeting)           | write the method section                                                 |
+|    9     |     1     | **Team** research                        | write the method section                                                 |
+|          |     2     | **Team** research (no meeting)           | write the method section                                                 |
+|    10    |     1     | **Team** research                        | analysis and results                                                     |
+|          |     2     | **Team** research (no meeting)           | analysis and results                                                     |
+|    11    |     1     | **Team** research                        | analysis and results                                                     |
+|          |     2     | **Team** research (no meeting)           | analysis and results                                                     |
+|    12    |     1     | **Team** research                        | analysis and results                                                     |
+|          |     2     | **Team** research (no meeting)           | analysis and results                                                     |
+|    13    |     1     | **Team** research                        | 1st draft + slides preparation                                           |
+|          |     2     | **Team** research (no meeting)           | 1st draft + slides preparation                                           |
+|    14    |     1     | **Team** research                        | Feedback                                                                 |
+|          |     2     | **Team** research (no meeting)           |                                                                          |
+|    15    |     1     | Oral Presentations                       | Presentation                                                             |
+|          |     2     | Oral Presentations                       | Presentation                                                             |
+|    16    |           | Final paper + slides due                 |                                                                          |

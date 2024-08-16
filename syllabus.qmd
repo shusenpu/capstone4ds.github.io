@@ -1,28 +1,151 @@
 ---
-title: "Syllabus"
+title: 'IDC 6940 - Capstone Projects in Data Science'
+subtitle: "Syllabus"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-[UNDER CONSTRUCTION]
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+```
 
-Jump to:
+::: callout-important
+This is a generic syllabus, please refer to Canvas or your semester
+instructor for more details.
+:::
 
-- [About Statistics 999](#about-statistics-999)
-  - [Goals](#goals)
-  - [Prerequisites](#prerequisites)
+## Course Information
 
+-   **Instructor:** [Instructor information](staff.html)
+-   **Email policy**: Please put **IDC6940** in the email subject
+-   **Class Meetings**: Online Learning
+-   **Course Materials**:
+    [Canvas](https://uwf.instructure.com/){target="_blank"}
+-   **Office Hours**: Email your [instructors](staff.html)
 
-## About Statistics 999
+<!-- You may schedule an appointment for office hours through Navigate following [these instructions](https://confluence.uwf.edu/display/public/Schedule+an+Appointment+with+your+Academic+Advisor%2C+an+Academic+Support+office%2C+or+Faculty+Office+Hours): -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+<!-- Choose: -->
 
+<!--   - Faculty Virtual Office Hours -->
 
-### Goals
+<!-- This is linked to my Google Calendar, so you will be able to make an appointment if I am not already busy. It will also consider your class schedule and not offer times that conflict with your class times. If you are unable to find a time that works with your schedule, please email me with your availability and we will find a time that works for both of us.  -->
 
+<!-- All office hours will be held in my personal [Zoom room](https://uwf.zoom.us/my/acohen).  -->
 
-- Goal 1
-- Goal 2
-- Goal 3
+## Course Description
 
-### Prerequisites
+This course will provide you with an opportunity to apply the knowledge
+and skills that you have gained in the program. The capstone project
+will allow student to gain experience in data wrangling, data
+visualization, statistical modeling, machine learning, reporting, and
+presenting the results. Upon the completion of this course, you will
+have a data product (paper and slides) to show to potential hiring
+managers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+<!-- ## Topics -->
+
+<!-- -   Data management and visualization using R -->
+
+<!-- -   Linear Normal models -->
+
+<!-- -   Diagnostics of linear models -->
+
+<!-- -   Generalized linear models -->
+
+<!-- -   Gamma regression -->
+
+<!-- -   Binomial, Ordinal, and Multinomial regressions -->
+
+<!-- -   Poisson regression -->
+
+<!-- -   Negative binomial regression -->
+
+## Student Learning Outcomes
+
+At the completion of this course, students will be able to:
+
+-   Describe a research or business problem of interest
+-   Apply and compare statistical and machine learning methods
+-   Acquire, organize, summarize, and visualize data
+-   Communicate and formulate statistical analysis to an audience
+-   Collaborate with others
+
+## Course Materials
+
+There is no required textbooks for this course. Course Materials are
+posted on Canvas. Lectures will be recorded and posted on Canvas.
+
+## Grading and Evaluation
+
+The course grade will be determined as follows:
+
+-   Quizzes Project Progress (#6): 60%
+-   Oral Presentation - Slides (#1): 20%
+-   Final Paper Project (#1): 20%
+
+## Grade Distribution
+
+Final course grades will be determined according to the following scale.
+
+| Letter Grade | Weighted Score |
+|--------------|----------------|
+| A            | 93%--100%      |
+| A-           | 90%--92%       |
+| B+           | 87%--89%       |
+| B            | 83%--86%       |
+| B-           | 80%--82%       |
+| C+           | 77%--79%       |
+| C            | 73%--76%       |
+| C-           | 70%--72%       |
+| D+           | 67%--69%       |
+| D            | 60%--66%       |
+| F            | \< 60%         |
+|              |                |
+
+<!-- ## Important University Dates -->
+
+<!-- Date|Event -->
+
+<!-- ---|--- -->
+
+<!-- August 23 (Monday)|Fall semester begins. -->
+
+<!-- August 29 (Sunday)|Drop/Add period ends. -->
+
+<!-- November 11 (Thursday)|Veteran's Day - campus closed. -->
+
+<!-- November 15 (Monday)|Withdrawal deadline (automatic grade of "W"). -->
+
+<!-- November 25 (Thursday)|Thanksgiving holiday - campus closed. -->
+
+<!-- December 11 (Friday)|Late withdrawal deadline ("W" or "WF", see requirements below). -->
+
+## University Statements and Policies
+
+This link includes additional syllabus statements that can benefit all
+UWF students: [University Statements and
+Policies](https://confluence.uwf.edu/display/public/Additional+Syllabus+Statements){target="_blank"}
+
+## Textbooks (not required)
+
+-   R for Data Science, 2017, Hadley Wickham and Garrett Grolemond. Free
+    acess: [https://r4ds.had.co.nz/](#0)
+
+-   Python for Data Science:
+    <https://aeturrell.github.io/python4DS/welcome.html>
+
+-   Foundations of Linear and Generalized Linear Models, Edition (2015).
+    Author: Alan Agresti; ISBN-13: 978-1118730034. [Free access with UWF
+    account](https://ebookcentral.proquest.com/lib/uwf/reader.action?docID=1895564){target="_blank"}
+
+-   Generalized Linear Models With Examples in R, Edition (2015).
+    Author: Peter K. Dunn and Gordon K. Smyth ; ISBN-13: 978-1441901170.
+
+    <!--# Generalized, Linear, and Mixed Models, 2nd Edition (2008). Author: Charles E. McCulloch, Shayle R. Searle, John M. Neuhaus; ISBN-13: 978-0-470-07371-1. -->
+
+-   Introduction to Data Science - Data Analysis and Prediction
+    Algorithms with R, (2020). Author: Rafael A. Irizarry.
+
+## 

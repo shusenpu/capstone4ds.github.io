@@ -1,33 +1,35 @@
 ---
-title: "Staff"
+title: "IDC 6940 - Capstone Projects in Data Science"
+subtitle: "Instructors"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-[UNDER CONSTRUCTION]
+::: callout-important
+It depends on the semester. One or more instructors are assigned to
+teach this course.
 
-Office hours are subject to change.
-
------
-
-::: {.grid}
-
-::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Person X</a><br>
-`x@berkeley.edu`<br>
-Office hours: <br>
-- Thursday 3pm-5pm, Evans 309 <br>
-- Friday 2:00pm-4:30pm, Evans 309<br>
+Please visit [Canvas](https://uwf.instructure.com/){target="_blank"} or
+get in touch with your instructor for questions and office hours
+appointments.
 :::
 
-::: {.g-col-4}
-**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Person Y</a><br>
-`y@berkeley.edu`<br>
-Office hours:<br>
-- Monday 11am-12pm, Evans 432<br>
-- Tuesday 4pm-5pm, Evans 432<br>
-- Wednesday 2pm-3pm, Evans 432<br>
-- Friday 12pm-1pm, Evans 432
-:::
+------------------------------------------------------------------------
 
+**Instructors:**
+
+-   <a href="https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-samantha-seals.html" target="_blank">Dr.
+    Samantha Seals</a>: `sseals@uwf.edu`
+
+-   <a href="https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-shusen-pu.html" target="_blank">Dr.
+    Shusen Pu</a>: `spu@uwf.edu`
+
+-   <a href="https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-achraf-cohen.html" target='_blank'>Dr.
+    Achraf Cohen</a>: `acohen@uwf.edu`
+
+```{=html}
+<!--
 ::: {.g-col-4}
 **Tutor:** Person Z<br>
 `z@berkeley.edu`<br>
@@ -43,6 +45,5 @@ Office hours: <br>
 - Wednesday 10am-2pm, Evans 432<br>
 - Thursday 3-5pm, Evans 434
 :::
-
-:::
-
+-->
+```

@@ -1,0 +1,62 @@
+---
+title: IDC 6940 - Capstone Projects in Data Science
+subtitle: "Project Instructions"
+---
+
+Please read the following instructions:
+
+You will need to select a specific study area to concentrate on, which may be a subject new to you. You will start the process by conducting an in-depth exploration of the chosen topic and then demonstrate the application of the new methodology using a real-world dataset that is both relevant and captivating. Completing the project requires submitting a comprehensive written paper alongside an engaging oral presentation supported by slides.
+
+::: callout-important
+GitHub Page Template Project: <https://github.com/capstone4ds/capstone4ds_template>
+:::
+
+The methodologies to consider:
+
+Regression methodologies:
+
+-   Quantile Regression
+-   Generalized Additive Models
+-   Normal Linear Mixed Models
+-   Generalized estimating equations
+-   LASSO or Ridge Regression
+-   Kernel Regression
+-   Bayesian Linear Regression
+-   Beta regression
+-   Cox proportional hazards model
+-   ...
+
+Clustering methodologies:
+
+-   K-means clustering
+-   Latent Class Analysis
+-   ...
+
+Machine Learning methodologies:
+
+-   Support Vector Machines
+-   Decision Trees Random Forest
+-   XGBoost models
+-   Bayesian Networks
+-   KNN
+-   Long Short-Term Network (LSTM)
+-   Conventional Neural Network (CNN)
+-   Sentiment Analysis (NLP)
+
+Others:
+
+-   Missing Data and Imputation
+-   Cross-validation
+-   Bootstrapping and Jackknife Estimation
+-   Principal Component Analysis
+-   Independent Component Analysis
+-   ...
+
+::: callout-note
+You are free to propose a **topic** if there is something you are interested in but is missing from the list. The instructor must approve the methodology to ensure that it meets the expectations of a capstone project.
+:::
+
+#### Useful links
+
+-   Data Sets: <https://acohenstat.github.io/Datasets/>
+-   GitHub Page for the project: <https://github.com/acohenstat/STA6257_Project>
