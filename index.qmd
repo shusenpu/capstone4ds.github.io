@@ -31,7 +31,7 @@ This course will provide you with an opportunity to apply the knowledge and skil
 
 | **Week** | **Day**\* | **Topic(s)**                             | **Action**                                                               |
 |:-----------:|:-----------:|-----------------------|:-----------------------|
-|    1     |     1     | Intro to GitHub / RStudio / Quarto       | Do Practice + Pick a Topic/Group                                         |
+|    1     |     1     | Intro to GitHub / RStudio / Quarto /Overleaf      | Do Practice + Pick a Topic/Group                                         |
 |          |     2     | Pick a Topic + Practice **(no meeting**) | Pick a Topic/Group                                                       |
 |    2     |     1     | **Individual** research                  | Read and summarize research papers; Create **Individual** GitHub Website |
 |          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Create **Individual** GitHub Website |
