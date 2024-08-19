@@ -33,12 +33,12 @@ This course will provide you with an opportunity to apply the knowledge and skil
 |:-----------:|:-----------:|-----------------------|:-----------------------|
 |    1     |     1     | Intro to GitHub / RStudio / Quarto /Overleaf/Python/Matlab      | Do Practice + Pick a Topic/Group                                         |
 |          |     2     | Pick a Topic + Practice **(no meeting**) | Pick a Topic/Group                                                       |
-|    2     |     1     | **Individual** research                  | Read and summarize research papers; Create **Individual** GitHub Website |
-|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Create **Individual** GitHub Website |
-|    3     |     1     | **Individual** research                  | Read and summarize research papers; Add them to GitHub Website           |
-|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Add them to GitHub Website           |
-|    4     |     1     | **Individual** research                  | Read and summarize research papers + polish writing on GitHub Website    |
-|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers + polish writing on GitHub Website    |
+|    2     |     1     | **Individual** research                  | Read and summarize research papers; Create **Individual** GitHub Website/Overleaf Document |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Create **Individual** GitHub Website/Overleaf Document |
+|    3     |     1     | **Individual** research                  | Read and summarize research papers; Add them to GitHub Website/Overleaf Document           |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Add them to GitHub Website/Overleaf Document          |
+|    4     |     1     | **Individual** research                  | Read and summarize research papers + polish writing on GitHub Website/Overleaf Document    |
+|          |     2     | **Individual** research (no meeting)     | Read and summarize research papers + polish writing on GitHub Website/Overleaf Document    |
 |    5     |     1     | **Team** research                        | write the introduction/literature review                                 |
 |          |     2     | **Team** research (no meeting)           | write the introduction/literature review                                 |
 |    6     |     1     | **Team** research                        | polish the introduction/literature review + pick a data set              |
