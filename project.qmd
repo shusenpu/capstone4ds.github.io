@@ -11,46 +11,70 @@ You will need to select a specific study area to concentrate on, which may be a 
 GitHub Page Template Project: <https://github.com/capstone4ds/capstone4ds_template>
 :::
 
-The methodologies to consider:
+Topics to consider:
 
-Regression methodologies:
+Applied Math:
 
--   Quantile Regression
--   Generalized Additive Models
--   Normal Linear Mixed Models
--   Generalized estimating equations
--   LASSO or Ridge Regression
--   Kernel Regression
--   Bayesian Linear Regression
--   Beta regression
--   Cox proportional hazards model
--   ...
+- Computational algorithms for solving large linear systems, such as QR factorization, Gaussian Elimination (LU factorization), singular value decomposition (SVD), Iterative methods.
+- Numerical solutions for PDE models, such as heat equations and Poisson equations.
+- Numerical solutions for page ranking, such as power iteration, ect. 
+- Community detection for complex networks, or centrality for networks. 
+- Optimization problems
+- Inverse problems and image processing
 
-Clustering methodologies:
+Data Science:
 
--   K-means clustering
--   Latent Class Analysis
--   ...
+- Machine Learning and Predictive Analytics: Developing models to predict outcomes based on historical data.
+- Natural Language Processing (NLP): Techniques for analyzing and understanding human language in text form.
+- Big Data Analytics: Handling and analyzing extremely large datasets to uncover hidden patterns and insights.
+- Data Visualization: Techniques for representing data graphically to aid understanding and decision-making.
+- Deep Learning: Use of neural networks with multiple layers for complex pattern recognition tasks.
+- Reinforcement Learning: Training models to make sequences of decisions by rewarding desired outcomes.
 
-Machine Learning methodologies:
+Statistics:
 
--   Support Vector Machines
--   Decision Trees Random Forest
--   XGBoost models
--   Bayesian Networks
--   KNN
--   Long Short-Term Network (LSTM)
--   Conventional Neural Network (CNN)
--   Sentiment Analysis (NLP)
+- Mathematical Statistics: distributions and their properties
+- Bayesian Statistics: Use of Bayes' theorem for updating probabilities as new data is acquired.
+- Survival Analysis: Statistical methods for analyzing time-to-event data, common in medical research.
+- Multivariate Analysis: Techniques for understanding patterns in data involving multiple variables.
+- Non-parametric Methods: Statistical methods that do not assume a specific data distribution.
+- Time Series Analysis: Techniques for analyzing data points collected or recorded at specific time intervals.
+- Statistical Learning and Inference: Methods for making predictions and understanding data patterns through statistical models.
 
-Others:
+Interdisciplinary: 
 
--   Missing Data and Imputation
--   Cross-validation
--   Bootstrapping and Jackknife Estimation
--   Principal Component Analysis
--   Independent Component Analysis
--   ...
+1. Computational Biology and Bioinformatics
+Mathematical Modeling of Gene Regulatory Networks: Using differential equations and network theory to model and understand complex biological systems.
+Statistical Methods for Genomic Data Analysis: Developing new statistical techniques to analyze high-throughput genomic data, such as RNA-Seq or genome-wide association studies (GWAS).
+Machine Learning for Protein Structure Prediction: Applying deep learning techniques to predict the three-dimensional structure of proteins from amino acid sequences.
+2. Financial Mathematics and Econometrics
+Quantitative Risk Management: Using stochastic processes, Monte Carlo simulations, and optimization techniques to model and manage financial risks.
+Time Series Analysis in Financial Markets: Applying statistical methods to analyze and forecast financial time series data, such as stock prices or interest rates.
+Algorithmic Trading and Data Science: Developing machine learning algorithms for automated trading strategies based on historical and real-time market data.
+3. Environmental Science and Climate Modeling
+Mathematical Modeling of Climate Change: Using differential equations and numerical methods to model and predict climate patterns and their impact on ecosystems.
+Statistical Analysis of Environmental Data: Developing statistical models to analyze and interpret large datasets related to air quality, water resources, or biodiversity.
+Big Data Analytics for Environmental Monitoring: Applying data science techniques to analyze satellite imagery and sensor data for tracking environmental changes.
+4. Public Health and Epidemiology
+Epidemiological Modeling: Using mathematical models to simulate the spread of infectious diseases and evaluate the effectiveness of intervention strategies.
+Statistical Methods for Health Data: Developing new techniques for analyzing healthcare data, including survival analysis, causal inference, and longitudinal studies.
+Data Science for Precision Medicine: Applying machine learning to personalize treatment plans based on patient data, including genetics, lifestyle, and clinical history.
+5. Urban Planning and Smart Cities
+Optimization in Transportation Networks: Using mathematical optimization to design efficient public transportation systems and reduce traffic congestion in urban areas.
+Data-Driven Urban Analytics: Applying data science methods to analyze urban data, such as traffic patterns, energy usage, and social dynamics, for smarter city planning.
+Statistical Modeling of Housing Markets: Using econometric and statistical models to study housing market trends, pricing dynamics, and the impact of policy interventions.
+6. Robotics and Autonomous Systems
+Mathematical Control Theory: Developing control algorithms for autonomous robots using differential equations and optimization techniques.
+Reinforcement Learning for Autonomous Navigation: Applying reinforcement learning to teach robots or autonomous vehicles to navigate complex environments.
+Statistical Methods for Sensor Fusion: Developing techniques for combining data from multiple sensors to improve the accuracy and reliability of autonomous systems.
+7. Social Sciences and Behavioral Economics
+Mathematical Models of Social Networks: Using graph theory and network analysis to study the structure and dynamics of social networks.
+Statistical Analysis of Behavioral Data: Applying statistical methods to analyze data on human behavior, preferences, and decision-making processes.
+Data Science for Political Forecasting: Using machine learning and data analytics to predict election outcomes, public opinion trends, and policy impacts.
+8. Healthcare and Biomedical Engineering
+Medical Imaging Analysis: Applying machine learning and statistical methods to analyze medical images, such as MRI or CT scans, for disease diagnosis and treatment planning.
+Mathematical Modeling of Biological Systems: Using differential equations and computational models to study physiological processes, such as cardiovascular dynamics or neural activity.
+Data Science for Health Informatics: Developing data-driven approaches to improve healthcare delivery, including patient outcome prediction, hospital resource management, and electronic health record (EHR) analysis.
 
 ::: callout-note
 You are free to propose a **topic** if there is something you are interested in but is missing from the list. The instructor must approve the methodology to ensure that it meets the expectations of a capstone project.
