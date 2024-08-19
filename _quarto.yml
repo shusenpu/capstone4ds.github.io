@@ -4,7 +4,7 @@ website:
   site-url: "https://capstone4ds.github.io/"
   sidebar:
     style: docked
-    title: "IDC 6940"
+    title: "Capstone Projects"
     logo: assets/logo.png
     tools:
       - icon: github
