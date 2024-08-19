@@ -9,7 +9,7 @@ showtext_auto()
 p <- ggplot(aes(x = mpg, y = wt), data = mtcars) + geom_point()
 p <- p + theme_void() + theme_transparent()
 ## use the ggplot2 example
-sticker(p, package="Capstone4DS", p_size=22, s_x=1, s_y=.75, s_width=1.3, s_height=1,
+sticker(p, package="Capstones", p_size=22, s_x=1, s_y=.75, s_width=1.3, s_height=1,
         p_family = "gochi", filename="assets/logo.png")
 
 
