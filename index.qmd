@@ -23,7 +23,7 @@ subtitle: "UWF - Mathematics and Statistics"
 Things are picking up now.
 :::-->
 ```
-This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers.
+This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in mathematical modeling, data wrangling, data visualization, statistical modeling, machine learning, numerical simulation, reporting, and presenting the results. Upon the completion of this course, you will have a paper and slides to show to potential hiring managers.
 
 ## Schedule
 
@@ -39,26 +39,25 @@ This course will provide you with an opportunity to apply the knowledge and skil
 |          |     2     | **Individual** research (no meeting)     | Read and summarize research papers; Add them to GitHub Website/Overleaf Document          |
 |    4     |     1     | **Individual** research                  | Read and summarize research papers + polish writing on GitHub Website/Overleaf Document    |
 |          |     2     | **Individual** research (no meeting)     | Read and summarize research papers + polish writing on GitHub Website/Overleaf Document    |
-|    5     |     1     | **Team** research                        | write the introduction/literature review                                 |
-|          |     2     | **Team** research (no meeting)           | write the introduction/literature review                                 |
-|    6     |     1     | **Team** research                        | polish the introduction/literature review + pick a data set              |
-|          |     2     | **Team** research (no meeting)           | polish the introduction/literature review + pick a data set              |
-|    7     |     1     | **Team** research                        | data description and visualization                                       |
-|          |     2     | **Team** research (no meeting)           | data description and visualization                                       |
-|    8     |     1     | **Team** research                        | write the method section                                                 |
-|          |     2     | **Team** research (no meeting)           | write the method section                                                 |
-|    9     |     1     | **Team** research                        | write the method section                                                 |
-|          |     2     | **Team** research (no meeting)           | write the method section                                                 |
+|    5     |     1     | **Team** research                        | finalize the group                                 |
+|          |     2     | **Team** research (no meeting)           | write the project proposal                               |
+|    6     |     1     | **Team** research                        | write the introduction/literature review + pick a problem to address              |
+|          |     2     | **Team** research (no meeting)           | polish the introduction/literature review + pick a problem to address              |
+|    7     |     1     | **Team** research                        | polish the introduction/literature review + write methodology                                       |
+|          |     2     | **Team** research (no meeting)           | polish the introduction/literature review + write methodology                                       |
+|    8     |     1     | **Team** research                        | polish intro+methods+write analysis                                                |
+|          |     2     | **Team** research (no meeting)           | polish intro+methods+write analysis                                                 |
+|    9     |     1     | **Team** research                        | Analysis/Computation/Simulation                                                 |
+|          |     2     | **Team** research (no meeting)           | update the analysis and progress                                                 |
 |    10    |     1     | **Team** research                        | analysis and results                                                     |
-|          |     2     | **Team** research (no meeting)           | analysis and results                                                     |
+|          |     2     | **Team** research (no meeting)           | 1st draft due                                                     |
 |    11    |     1     | **Team** research                        | analysis and results                                                     |
-|          |     2     | **Team** research (no meeting)           | analysis and results                                                     |
+|          |     2     | **Team** research (no meeting)           | 2nd draft due                                                   |
 |    12    |     1     | **Team** research                        | analysis and results                                                     |
-|          |     2     | **Team** research (no meeting)           | analysis and results                                                     |
-|    13    |     1     | **Team** research                        | 1st draft + slides preparation                                           |
-|          |     2     | **Team** research (no meeting)           | 1st draft + slides preparation                                           |
-|    14    |     1     | **Team** research                        | Feedback                                                                 |
-|          |     2     | **Team** research (no meeting)           |                                                                          |
-|    15    |     1     | Oral Presentations                       | Presentation                                                             |
-|          |     2     | Oral Presentations                       | Presentation                                                             |
-|    16    |           | Final paper + slides due                 |                                                                          |
+|          |     2     | **Team** research (no meeting)           | Final draft + slides                                                   |
+|    13    |     1     | **Team** research                        | mock presentation                                           |
+|          |     2     | **Team** research (no meeting)           | polish report + slides                                           |
+|    14    |     1     | **Team** research                        | Final Presentation                                                                |
+|          |     2     | **Team** research (no meeting)           | Final Presentation                                                                         |
+|    15    |     1     | Final paper + slides due                       |                                                             |
+|          |     2     | Final paper + slides due                     |  final report + slides + code submission                                                            |
