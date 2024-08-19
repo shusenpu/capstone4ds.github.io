@@ -1,14 +1,14 @@
 project:
   type: website
 website:
-  site-url: "https://capstone4ds.github.io/"
+  site-url: "https://github.com/shusenpu/capstone4ds.github.io/"
   sidebar:
     style: docked
     title: "Capstone Projects"
     logo: assets/logo.png
     tools:
       - icon: github
-        href: https://github.com/capstone4ds/capstone4ds.github.io
+        href: https://github.com/shusenpu/capstone4ds.github.io
     contents:
       - href: index.qmd
         text: Home / Schedule
